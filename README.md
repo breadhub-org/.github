@@ -4,6 +4,11 @@
 ![Contributor Count](https://img.shields.io/badge/Contributor%20Count-1-orange?style=flat-square)
 
 
+## commit rules:
+ - We require gpg signed (verified) commits to all repos
+ - Issue templates will be created soon
+
+
 # what we are and what we do:
  - small developer's that upload projects that interest us
  - Docker based containers
